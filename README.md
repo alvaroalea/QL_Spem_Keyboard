@@ -1,5 +1,8 @@
-    # QL_Spem_Keyboard
+# QL_Spem_Keyboard
+
 Recreation of the mechanical keyboard for Sinclair QL computer by brand Spem
+
+# WARNING: DO NOT USE THIS PROJECT IS NOT TESTED AND MISSING THINGS
 
 Spem SRL, a italian company manufacture in 1986 a conversion kit for the Sinclair QL, named "System 2",
 This include a aluminium desktop case with space for up to two 3 1/2" drives, the QL original Power supply and a Sinclair QL main board, to create a complete moderm desktop computer.
